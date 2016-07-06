@@ -1,3 +1,10 @@
+-- 
+-- 3D2D Escape Menu by thelastpenguin aka Gareth
+-- The author of this script takes no responsability for damages incured in it's use including loss or disruption of service or otherwise.
+-- All derivitave scripts must keep this credit banner to the author and must credit the author thelastpenguin in any releases
+-- other than that you can do whatever the fvck you want with it :)
+-- 
+
 include 'vgui_3d2d.lua'
 
 esc = esc or {}
